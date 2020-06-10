@@ -1,0 +1,62 @@
+body{
+    font-family: teko;
+    background: #eef0eb;
+}
+h1{
+    background:#102b3f;
+    color: white;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.inputDiv{
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    background: #EFF8E2;
+}
+.inputDiv .input{
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    font-size: 1.25rem;
+    font-family: Teko;
+    margin: 0.25rem;
+    width: 350px;
+}
+.add{
+    font-size: 1.25rem;
+    outline: none;
+    height: 30px;
+    border-radius: 30px;
+    background: #272838;
+    color: white;
+}
+.container{
+    width: 400px;
+    margin: 0 auto;
+}
+.item{
+    background: #B4B8AB;
+    padding: 0.5rem;
+}
+.item_input{
+    border: none;
+    background: none;
+    outline: none;
+    margin: 0.25rem;
+    font-family: Teko;
+    font-size: 1.15rem;
+    width: 260px;
+}
+.edit{
+    margin-left: 40px;
+    color: green;
+}
+.remove{
+    color: red;
+}
